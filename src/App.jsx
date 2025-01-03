@@ -25,7 +25,7 @@ function App() {
         Iske upar mouse mat lekar aana
       </p>
 
-      <button onClick={ClickHandle} className='styling' >
+      <button onClick={ClickHandle} className='styling'>
         Dabana mat please
       </button>
 
